@@ -1,3 +1,4 @@
+# Investigate Business Hotel using Data Visualization
 
 ## Intro
 This is another Data Analysis Portfolio that I made to increase my ability to analyze, visualize and interpret a dataset. This porfolio also associated with [Rakamin Academy](rakamin.com) where I learn and discuss about data-related stuff. You can also read related article I created on [Medium](https://medium.com/@triesonyk/hotel-booking-analysis-127addfe5ba7)
